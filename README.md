@@ -1,6 +1,6 @@
-#I am Ayodele Ogunkeyede MD
-##I am a data analyst/Plastic Surgeon
-#call me a body shaper as I 💘 to contour people's body
+# I am Ayodele Ogunkeyede MD
+## I am a data analyst/Plastic Surgeon
+# call me a body shaper as I 💘 to contour people's body
 - 🔭 I’m currently working on various projects to improve my services to my clients with help of data analytics 
 - 🌱 I’m currently learning data analysis with group of well motivated students
 - 👯 I’m looking to collaborate on projects to improve clients confidence and proffer solutions with help of individuals organisations and companies that share same goals
